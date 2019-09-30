@@ -15,7 +15,7 @@ namespace MadLibs
       // Let the user know that the program is starting:
       Console.WriteLine("Let the game start!");
 
-      // Give the Mad Lib a title:
+      // Title:
       string title = "Fun times";
 
       Console.WriteLine(title);
